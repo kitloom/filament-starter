@@ -103,6 +103,8 @@
         "kitloom/media-optimizer-filament": "^1.0",
         "kitloom/media-replace": "^1.0",
         "kitloom/media-replace-filament": "^1.0",
+        "kitloom/mobile-apps": "^1.0",
+        "kitloom/mobile-apps-filament": "^1.0",
         "kitloom/modules": "^1.0",
         "kitloom/modules-filament": "^1.0",
         "kitloom/multisite": "^1.0",
