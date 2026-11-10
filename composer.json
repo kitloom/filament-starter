@@ -93,6 +93,8 @@
         "kitloom/link-checks-filament": "^1.0",
         "kitloom/listings": "^1.0",
         "kitloom/listings-filament": "^1.0",
+        "kitloom/live": "^1.0",
+        "kitloom/live-filament": "^1.0",
         "kitloom/lyceum-theme": "^1.0",
         "kitloom/maintenance": "^1.0",
         "kitloom/maintenance-filament": "^1.0",
