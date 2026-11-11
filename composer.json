@@ -41,6 +41,8 @@
         "kitloom/blade-theme": "^1.0",
         "kitloom/booking-calendars": "^1.0",
         "kitloom/booking-calendars-filament": "^1.0",
+        "kitloom/booking-checkouts": "^1.0",
+        "kitloom/booking-checkouts-filament": "^1.0",
         "kitloom/booking-deposits": "^1.0",
         "kitloom/booking-deposits-filament": "^1.0",
         "kitloom/booking-meetings": "^1.0",
