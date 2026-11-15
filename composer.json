@@ -141,6 +141,8 @@
         "kitloom/quire-theme": "^1.0",
         "kitloom/redirects": "^1.0",
         "kitloom/redirects-filament": "^1.0",
+        "kitloom/rest-api": "^1.0",
+        "kitloom/rest-api-filament": "^1.0",
         "kitloom/safe-svg": "^1.0",
         "kitloom/safe-svg-filament": "^1.0",
         "kitloom/saffron-theme": "^1.0",
