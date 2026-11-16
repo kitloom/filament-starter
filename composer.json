@@ -45,6 +45,8 @@
         "kitloom/booking-checkouts-filament": "^1.0",
         "kitloom/booking-deposits": "^1.0",
         "kitloom/booking-deposits-filament": "^1.0",
+        "kitloom/booking-discounts": "^1.0",
+        "kitloom/booking-discounts-filament": "^1.0",
         "kitloom/booking-meetings": "^1.0",
         "kitloom/booking-meetings-filament": "^1.0",
         "kitloom/bookings": "^1.0",
